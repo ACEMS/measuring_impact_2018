@@ -1,4 +1,4 @@
-# measuring_impact_2018
+# Measuring Impact 2018 Seminar & Workshop
 
 Use this repo to add ideas for open sources tools for measuring research impac. 
 
