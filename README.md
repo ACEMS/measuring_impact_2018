@@ -1,11 +1,11 @@
 # Measuring Impact 2018 -  Seminar & Workshop
 
-This repo relates to the Measuring Impact in the Mathematical Sciences workshop hosted by ACEMS on October 4th, 2018.
+This repo relates to the Measuring Impact in the Mathematical Sciences seminar hosted by [ACEMS](acems.org.au) on October 4th, 2018.
 
-Please see the wiki tab for the workshop program and relevant resources. 
+Please see the wiki tab for the workshop program, presenters slides and other interesting resources.
 
-Please add ideas for tools to the issues section through the tab above. These ideas will be worked on at the 2018 Measiring Impact in the Mathematical and Statistical Sciences Workshop, held on Thursday October 4th at the Queensland University of Technology and hosted by [ACEMS](www.acems.org.au). 
+Please add ideas for potential tools to the issues section through the tab above. These ideas will be worked on within the practical aspect of the workshop. 
 
-Please comment on issues you are interested in or have feedback and or thoughts about. 
+This is an [ACEMS](www.acems.org.au) event. Hosted by [Professor Adrian Barnett](https://github.com/agbarnett) and [Jessie Roberts](https://github.com/jesse-jesse)
 
-Please contact industry@acems.org.au if you have any questions. A webinar link will be made available to all that register for the webinar ticket. 
+Please contact industry@acems.org.au if you have any questions. A recording of the seminar presentations will be made available shortly. 
