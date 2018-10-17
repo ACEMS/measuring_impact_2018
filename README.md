@@ -6,7 +6,7 @@ This repo relates to the Measuring Impact in the Mathematical Sciences seminar h
 
 Please see the [Wiki](https://github.com/ACEMS/measuring_impact_2018/wiki) tab above for the workshop program, presenters slides and other interesting resources.
 
-Please add ideas for potential tools to the issues section through the tab above. These ideas will be worked on within the practical aspect of the workshop. 
+Please add ideas for potential tools to the [Issues](https://github.com/ACEMS/measuring_impact_2018/issues) section through the tab above. We will continue to explore these ideas. Further details will be posted here as collaborations and work progresses. 
 
 This is an [ACEMS](www.acems.org.au) event, hosted by [Professor Adrian Barnett](https://github.com/agbarnett) and [Jessie Roberts](https://github.com/jesse-jesse)
 
