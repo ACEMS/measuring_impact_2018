@@ -1,6 +1,6 @@
 # Measuring Impact 2018 -  Seminar & Workshop
 
-> "Curiosity is what drives me, but as a mathematicians I am one step removed from applications. But that's where the engineers and scientists come in!" 
+> "Curiosity is what drives me, but as a mathematicians I am one step removed from applications. But that's where the engineers and scientists come in!" (Chubb, 2014)
 
 This repo relates to the Measuring Impact in the Mathematical Sciences seminar hosted by [ACEMS](acems.org.au) on October 4th, 2018.
 
